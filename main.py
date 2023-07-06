@@ -3,7 +3,7 @@ from config import key
 import openai
 from flask import render_template
 
-openai.api_key = " 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"
+openai.api_key = ""
 
 app = Flask(__name__)
 
